@@ -1,0 +1,16 @@
+.link:hover,
+.link:focus{
+    color: #2196F3;
+}
+.link{
+    color: #000;
+}
+.color-cange{
+    background-color: #F5F4FA;
+    color: #212121;
+}
+.color-cange:focus,
+.color-cange:hover{
+    background-color: #2196F3;
+    color: #ffff;
+}
