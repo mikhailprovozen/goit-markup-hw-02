@@ -1,3 +1,35 @@
+.body-style{
+   font-family: 'Roboto', sans-serif;
+   color: #212121;
+}
+.logo{
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 1,2;
+    color: #000000;
+    letter-spacing: 0.03em
+}
+.web-color{
+    color: #2196F3;
+}
+.site-nav{
+font-weight: 500;
+font-size: 14px;
+line-height: 1,14;
+letter-spacing: 0.02em;
+}
+.contakts{
+font-weight: 500;
+font-size: 14px;
+line-height: 1,2;
+letter-spacing: 0.02em;
+color: #757575;
+}
+.contakts:hover{
+    color: #2196F3
+}
+
 .link:hover,
 .link:focus{
     color: #2196F3;
@@ -5,12 +37,72 @@
 .link{
     color: #000;
 }
-.color-cange{
-    background-color: #F5F4FA;
-    color: #212121;
+
+h1{
+font-weight: 900;
+font-size: 44px;
+line-height: 1,3;
+text-align: center;
+letter-spacing: 0.06em;
+text-transform: uppercase;
+color: #757575;
 }
-.color-cange:focus,
-.color-cange:hover{
-    background-color: #2196F3;
-    color: #ffff;
+h3{
+font-weight: bold;
+font-size: 36px;
+line-height: 1,16;
+text-align: center;
+letter-spacing: 0.03em;
+color: #212121;
+}
+.text-main{
+font-weight: normal;
+font-size: 14px;
+line-height: 1,5;
+letter-spacing: 0.03em;
+color: #757575;
+}
+.text-team{
+font-weight: normal;
+font-size: 16px;
+line-height: 1,18;
+letter-spacing: 0.03em;
+color: #757575;
+}
+.name-team{
+font-weight: 500;
+font-size: 16px;
+line-height: 1,18;
+letter-spacing: 0.03em;
+color: #212121;
+}
+.service{
+width: 200px;
+height: 50px;
+left: 700px;
+top: 430px;
+background: #2196F3;
+font-weight: bold;
+font-size: 16px;
+line-height: 1,8;
+color: #ffff;
+}
+.lockation-style{
+font-weight: normal;
+font-size: 14px;
+line-height: 1,71;
+letter-spacing: 0.03em;
+color: #212121;
+}
+.filter-portfolio{
+width: 84px;
+height: 26px;
+left: 598px;
+top: 180px;
+font-weight: 500;
+font-size: 16px;
+line-height: 1,62;
+text-align: center;
+letter-spacing: 0.03em;
+color: #212121;
 }
